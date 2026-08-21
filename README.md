@@ -5,11 +5,12 @@ NOTICE: Project is on early stage, bot is not working 24/7, may contain bugs
 
 AI-powered Telegram bot log analyzer (@YetAnotherTSAbot) built with n8n and LLM APIs
 ## Actual workflow
-<img width="1154" height="541" alt="изображение" src="https://github.com/user-attachments/assets/a0b1b84b-2caf-4543-bb0f-05d125e882a3" />
+<img width="1302" height="570" alt="изображение" src="https://github.com/user-attachments/assets/4071d45c-a07a-47be-809d-0d95ff3b0079" />
+
 
 ## Future plans
 
-Before the end of August I will add journalctl and syslog to this project. Reduce false-positive results and maybe... migrate to a dedicated VPS (ngrok kinda shitty tbh).
+Before the end of August I will add syslog to this project. Reduce false-positive results and maybe... migrate to a dedicated VPS (ngrok kinda shitty tbh).
 ---
 
 ## RU
